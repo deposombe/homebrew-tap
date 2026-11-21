@@ -1,6 +1,6 @@
 cask "rapidfire" do
-  version "1.0"
-  sha256 "8b59ad95c2740e8b741a694680c3088d97349de4c9fe759f5ab9a0a8c9e71032"
+  version "1.0.1"
+  sha256 "cc24583ff9a0c704aa41193c0a1bc7dd73ed0ef8fde78fad994acf82685ca06c"
 
   url "https://github.com/deposombe/Rapidfire-releases/releases/download/v#{version}/Rapidfire-#{version}.dmg"
   name "Rapidfire"
